@@ -1,6 +1,6 @@
 #iOS Icon Grid
 
-![Icon](Icon-76@2x.png)
+![Icon](iTunesArtwork@2x.png)
 
 Template for the iOS Icon Grid.
 
